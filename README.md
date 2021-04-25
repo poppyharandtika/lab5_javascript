@@ -9,16 +9,17 @@ Pemakaian Alert sebagai property window.
 
 ![output alert](https://user-images.githubusercontent.com/56400553/115981283-69218e80-a547-11eb-9b43-feab1f17aa70.png)
 
-
-![coding arimatic](https://user-images.githubusercontent.com/56400553/115981204-092ae800-a547-11eb-85bc-501ada416045.png)
-
-![aritmatik](https://user-images.githubusercontent.com/56400553/115981205-0f20c900-a547-11eb-8b41-27a0875e2ca2.png)
+![output pempro](https://user-images.githubusercontent.com/56400553/115981718-b8b58980-a54a-11eb-92ee-bd4d25855aec.png)
 
 ![methon](https://user-images.githubusercontent.com/56400553/115981224-2c559780-a547-11eb-877d-da350227ca82.png)
 
 ![Output Methon](https://user-images.githubusercontent.com/56400553/115981236-36779600-a547-11eb-98a0-25b6f406a729.png)
 
 ![fungsi](https://user-images.githubusercontent.com/56400553/115981248-4a22fc80-a547-11eb-9084-b154883235b3.png)
+
+![coding arimatic](https://user-images.githubusercontent.com/56400553/115981204-092ae800-a547-11eb-85bc-501ada416045.png)
+
+![aritmatik](https://user-images.githubusercontent.com/56400553/115981205-0f20c900-a547-11eb-8b41-27a0875e2ca2.png)
 
 ![if els 1](https://user-images.githubusercontent.com/56400553/115981504-206ad500-a549-11eb-8fe2-df605bc67ed5.png)
 
@@ -27,8 +28,6 @@ Pemakaian Alert sebagai property window.
 ![coding switch](https://user-images.githubusercontent.com/56400553/115981308-98d09680-a547-11eb-8383-1e3e97db8273.png)
 
 ![switch output](https://user-images.githubusercontent.com/56400553/115981319-a2f29500-a547-11eb-892e-573d93d71962.png)
-
-![output pempro](https://user-images.githubusercontent.com/56400553/115981331-c4ec1780-a547-11eb-9a3f-5302d5b08626.png)
 
 Form Input.
 ![form](https://user-images.githubusercontent.com/56400553/115981325-ae45c080-a547-11eb-82aa-85a1e29fff92.png)
