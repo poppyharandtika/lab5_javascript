@@ -9,7 +9,6 @@ Pemakaian Alert sebagai property window.
 
 ![output alert](https://user-images.githubusercontent.com/56400553/115981283-69218e80-a547-11eb-9b43-feab1f17aa70.png)
 
-![ouput nya fungsi](https://user-images.githubusercontent.com/56400553/115981270-5b6c0900-a547-11eb-94a6-f561f6e86923.png)
 
 ![coding arimatic](https://user-images.githubusercontent.com/56400553/115981204-092ae800-a547-11eb-85bc-501ada416045.png)
 
